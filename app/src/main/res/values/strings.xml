@@ -1,0 +1,389 @@
+<resources>
+    <string name="app_name">YG</string>
+    <string name="colors"> " [
+        {
+            'color': '#bec6d1'
+        },
+        {
+            'color': '#98bad6'
+        },
+        {
+            'color': '#a5b5cf'
+        },
+        {
+            'color': '#a5b5cf'
+        },
+        {
+            'color': '#da061d'
+        },
+        {
+            'color': '#95020c'
+        },
+        {
+            'color': '#4a0307'
+        },
+        {
+            'color': '#bdb6a4'
+        },
+        {
+            'color': '#d24809'
+        },
+        {
+            'color': '#8a1b00'
+        },
+        {
+            'color': '#82240a'
+        },
+        {
+            'color': '#d4c465'
+        },
+        {
+            'color': '#bacf0e'
+        },
+        {
+            'color': '#98c311'
+        },
+        {
+            'color': '#52730a'
+        },
+        {
+            'color': '#8fef8d'
+        },
+        {
+            'color': '#57fb2a'
+        },
+        {
+            'color': '#38d81e'
+        },
+        {
+            'color': '#106e10'
+        },
+        {
+            'color': '#81eec4'
+        },
+        {
+            'color': '#37ee5e'
+        },
+        {
+            'color': '#2be045'
+        },
+        {
+            'color': '#19800b'
+        },
+        {
+            'color': '#5bd6a8'
+        },
+        {
+            'color': '#50f896'
+        },
+        {
+            'color': '#1ad34a'
+        },
+        {
+            'color': '#159622'
+        },
+        {
+            'color': '#72ecbd'
+        },
+        {
+            'color': '#77f7e0'
+        },
+        {
+            'color': '#1aba7a'
+        },
+        {
+            'color': '#12744e'
+        },
+        {
+            'color': '#aaf8ff'
+        },
+        {
+            'color': '#25b7c4'
+        },
+        {
+            'color': '#31c5c5'
+        },
+        {
+            'color': '#189d88'
+        },
+        {
+            'color': '#5db8e7'
+        },
+        {
+            'color': '#47b1eb'
+        },
+        {
+            'color': '#248de0'
+        },
+        {
+            'color': '#0a5fb9'
+        },
+        {
+            'color': '#79b5f1'
+        },
+        {
+            'color': '#2690f4'
+        },
+        {
+            'color': '#125bce'
+        },
+        {
+            'color': '#0736a0'
+        },
+        {
+            'color': '#4f83f3'
+        },
+        {
+            'color': '#2d66f1'
+        },
+        {
+            'color': '#2354f7'
+        },
+        {
+            'color': '#0720ba'
+        },
+        {
+            'color': '#636eea'
+        },
+        {
+            'color': '#213add'
+        },
+        {
+            'color': '#14249d'
+        },
+        {
+            'color': '#1a20b2'
+        },
+        {
+            'color': '#885eca'
+        },
+        {
+            'color': '#a652e5'
+        },
+        {
+            'color': '#873bdc'
+        },
+        {
+            'color': '#4c187d'
+        },
+        {
+            'color': '#c072b0'
+        },
+        {
+            'color': '#c4259c'
+        },
+        {
+            'color': '#7f0760'
+        },
+        {
+            'color': '#610337'
+        },
+        {
+            'color': '#ba021c'
+        },
+        {
+            'color': '#983806'
+        },
+        {
+            'color': '#b4bd2e'
+        },
+        {
+            'color': '#a6e942'
+        },
+        {
+            'color': '#2fe747'
+        },
+        {
+            'color': '#1eae7d'
+        },
+        {
+            'color': '#155ff6'
+        },
+        {
+            'color': '#3585f4'
+        },
+        {
+            'color': '#1577c2'
+        },
+        {
+            'color': '#3a67f4'
+        },
+        {
+            'color': '#8bb0dd'
+        },
+        {
+            'color': '#2e4a71'
+        },
+        {
+            'color': '#c90721'
+        },
+        {
+            'color': '#7dcc4c'
+        },
+        {
+            'color': '#83c607'
+        },
+        {
+            'color': '#5cec28'
+        },
+        {
+            'color': '#1db313'
+        },
+        {
+            'color': '#34c9b6'
+        },
+        {
+            'color': '#3eb1e8'
+        },
+        {
+            'color': '#267af4'
+        },
+        {
+            'color': '#294ee5'
+        },
+        {
+            'color': '#6b6ef1'
+        },
+        {
+            'color': '#9a5cc7'
+        },
+        {
+            'color': '#4b381a'
+        },
+        {
+            'color': '#cc4c0d'
+        },
+        {
+            'color': '#76cb18'
+        },
+        {
+            'color': '#66eb3c'
+        },
+        {
+            'color': '#1dd633'
+        },
+        {
+            'color': '#3ae259'
+        },
+        {
+            'color': '#55c0a2'
+        },
+        {
+            'color': '#41bdd9'
+        },
+        {
+            'color': '#77c1f2'
+        },
+        {
+            'color': '#4a99f8'
+        },
+        {
+            'color': '#516ee4'
+        },
+        {
+            'color': '#885bea'
+        },
+        {
+            'color': '#cb3dcd'
+        },
+        {
+            'color': '#d97912'
+        },
+        {
+            'color': '#dff248'
+        },
+        {
+            'color': '#c4fc5d'
+        },
+        {
+            'color': '#b6d41c'
+        },
+        {
+            'color': '#888116'
+        },
+        {
+            'color': '#1eb93a'
+        },
+        {
+            'color': '#1da67a'
+        },
+        {
+            'color': '#20347d'
+        },
+        {
+            'color': '#134dc8'
+        },
+        {
+            'color': '#8b6855'
+        },
+        {
+            'color': '#98050d'
+        },
+        {
+            'color': '#a6564f'
+        },
+        {
+            'color': '#a66b2f'
+        },
+        {
+            'color': '#cfd362'
+        },
+        {
+            'color': '#84ca50'
+        },
+        {
+            'color': '#6bea27'
+        },
+        {
+            'color': '#29429e'
+        },
+        {
+            'color': '#acc5a8'
+        },
+        {
+            'color': '#76d8c9'
+        },
+        {
+            'color': '#7ca4ec'
+        },
+        {
+            'color': '#7398f3'
+        },
+        {
+            'color': '#557189'
+        },
+        {
+            'color': '#8ca3d5'
+        },
+        {
+            'color': '#7194b4'
+        },
+        {
+            'color': '#990714'
+        },
+        {
+            'color': '#5f0415'
+        },
+        {
+            'color': '#5ef874'
+        },
+        {
+            'color': '#16a00f'
+        },
+        {
+            'color': '#b4d212'
+        },
+        {
+            'color': '#637311'
+        },
+        {
+            'color': '#cab041'
+        },
+        {
+            'color': '#8a3107'
+        },
+        {
+            'color': '#010302'
+        }
+    ]"</string>
+</resources>
